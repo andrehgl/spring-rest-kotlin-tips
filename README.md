@@ -39,3 +39,5 @@ body: {
 }
 
 Note that this sample application has no web security or persistent storage.
+
+https://sparktutorials.github.io/2017/01/28/using-spark-with-kotlin.html
